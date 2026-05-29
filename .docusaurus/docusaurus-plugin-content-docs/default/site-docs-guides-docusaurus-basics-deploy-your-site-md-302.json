@@ -1,0 +1,27 @@
+{
+  "id": "guides/docusaurus-basics/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/guides/docusaurus-basics/deploy-your-site.md",
+  "sourceDirName": "guides/docusaurus-basics",
+  "slug": "/guides/docusaurus-basics/deploy-your-site",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/guides/docusaurus-basics/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/congratulations"
+  }
+}

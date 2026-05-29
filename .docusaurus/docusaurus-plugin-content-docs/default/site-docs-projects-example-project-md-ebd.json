@@ -1,0 +1,24 @@
+{
+  "id": "projects/example-project",
+  "title": "Project-Title",
+  "description": "A simple and brief description and intro to the project.",
+  "source": "@site/docs/projects/example-project.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/example-project",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/projects/example-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/projects/example-project.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projects",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/projects/overview"
+  },
+  "next": {
+    "title": "V-Server Setup",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/projects/vserver-setup"
+  }
+}

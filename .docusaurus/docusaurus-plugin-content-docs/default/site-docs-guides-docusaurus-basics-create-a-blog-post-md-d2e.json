@@ -1,0 +1,27 @@
+{
+  "id": "guides/docusaurus-basics/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/guides/docusaurus-basics/create-a-blog-post.md",
+  "sourceDirName": "guides/docusaurus-basics",
+  "slug": "/guides/docusaurus-basics/create-a-blog-post",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/guides/docusaurus-basics/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/markdown-features"
+  }
+}

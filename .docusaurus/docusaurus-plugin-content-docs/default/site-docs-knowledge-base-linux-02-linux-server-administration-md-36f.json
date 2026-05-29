@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/linux/linux-server-administration",
+  "title": "Linux Server Administration",
+  "description": "",
+  "source": "@site/docs/knowledge-base/linux/02-linux-server-administration.md",
+  "sourceDirName": "knowledge-base/linux",
+  "slug": "/knowledge-base/linux/linux-server-administration",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/linux/linux-server-administration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/knowledge-base/linux/02-linux-server-administration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Linux Commandline",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/linux/the-linux-commandline"
+  },
+  "next": {
+    "title": "Git",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/category/git"
+  }
+}

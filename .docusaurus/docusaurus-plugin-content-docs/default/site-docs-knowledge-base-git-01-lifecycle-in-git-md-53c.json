@@ -1,0 +1,28 @@
+{
+  "id": "knowledge-base/git/lifecycle-in-git",
+  "title": "Lifecycle in Git",
+  "description": "Here’s a brief Git lifecycle for clone, commit, and push:",
+  "source": "@site/docs/knowledge-base/git/01-lifecycle-in-git.md",
+  "sourceDirName": "knowledge-base/git",
+  "slug": "/knowledge-base/git/lifecycle-in-git",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/git/lifecycle-in-git",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/knowledge-base/git/01-lifecycle-in-git.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Lifecycle in Git",
+    "title": "Lifecycle in Git"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clone",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/git/clone"
+  },
+  "next": {
+    "title": "Git Branching",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/git/git-branch"
+  }
+}

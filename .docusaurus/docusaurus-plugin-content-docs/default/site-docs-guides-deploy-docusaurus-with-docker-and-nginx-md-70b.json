@@ -1,0 +1,24 @@
+{
+  "id": "guides/deploy-docusaurus-with-docker-and-nginx",
+  "title": "Deploy Docusaurus with Docker and NGINX",
+  "description": "To deploy the site using NGINX and Docker, use the following example Dockerfile configuration:",
+  "source": "@site/docs/guides/deploy-docusaurus-with-docker-and-nginx.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/deploy-docusaurus-with-docker-and-nginx",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/deploy-docusaurus-with-docker-and-nginx",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/guides/deploy-docusaurus-with-docker-and-nginx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Demo Guide",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/some-demo-guide"
+  }
+}

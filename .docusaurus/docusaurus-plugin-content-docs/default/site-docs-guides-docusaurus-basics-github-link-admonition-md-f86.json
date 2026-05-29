@@ -1,0 +1,24 @@
+{
+  "id": "guides/docusaurus-basics/GithubLinkAdmonition",
+  "title": "GithubLinkAdmonition Component",
+  "description": "This GithubLinkAdmonition React component renders an Admonition with a GitHub icon, a title, and a link to a specified GitHub resource. The link text and type of Admonition can be customized.",
+  "source": "@site/docs/guides/docusaurus-basics/GithubLinkAdmonition.md",
+  "sourceDirName": "guides/docusaurus-basics",
+  "slug": "/guides/docusaurus-basics/GithubLinkAdmonition",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/GithubLinkAdmonition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/guides/docusaurus-basics/GithubLinkAdmonition.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/congratulations"
+  },
+  "next": {
+    "title": "Docusaurus - Extras",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/category/docusaurus---extras"
+  }
+}

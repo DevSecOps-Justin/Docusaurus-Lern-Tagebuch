@@ -1,0 +1,25 @@
+{
+  "id": "knowledge-base/git/clone",
+  "title": "Clone",
+  "description": "",
+  "source": "@site/docs/knowledge-base/git/00-clone.md",
+  "sourceDirName": "knowledge-base/git",
+  "slug": "/knowledge-base/git/clone",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/git/clone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/knowledge-base/git/00-clone.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/category/git"
+  },
+  "next": {
+    "title": "Lifecycle in Git",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/git/lifecycle-in-git"
+  }
+}

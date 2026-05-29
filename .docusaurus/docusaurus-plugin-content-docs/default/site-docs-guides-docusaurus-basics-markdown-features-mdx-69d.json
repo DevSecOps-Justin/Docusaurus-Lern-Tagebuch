@@ -1,0 +1,27 @@
+{
+  "id": "guides/docusaurus-basics/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/guides/docusaurus-basics/markdown-features.mdx",
+  "sourceDirName": "guides/docusaurus-basics",
+  "slug": "/guides/docusaurus-basics/markdown-features",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/guides/docusaurus-basics/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/docusaurus-basics/deploy-your-site"
+  }
+}

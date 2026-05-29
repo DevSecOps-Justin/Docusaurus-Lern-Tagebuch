@@ -1,0 +1,27 @@
+{
+  "id": "guides/intro",
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/guides/intro.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/intro",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/guides/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Implementing DevOps",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/DevOps/implementing-devops"
+  },
+  "next": {
+    "title": "Docusaurus - Basics",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/category/docusaurus---basics"
+  }
+}

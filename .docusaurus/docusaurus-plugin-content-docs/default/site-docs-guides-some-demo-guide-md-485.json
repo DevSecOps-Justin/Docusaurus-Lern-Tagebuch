@@ -1,0 +1,24 @@
+{
+  "id": "guides/some-demo-guide",
+  "title": "Demo Guide",
+  "description": "",
+  "source": "@site/docs/guides/some-demo-guide.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/some-demo-guide",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/some-demo-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/guides/some-demo-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy Docusaurus with Docker and NGINX",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/deploy-docusaurus-with-docker-and-nginx"
+  },
+  "next": {
+    "title": "Using .env Files in Node.js",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/guides/use-env-vars-in-node"
+  }
+}

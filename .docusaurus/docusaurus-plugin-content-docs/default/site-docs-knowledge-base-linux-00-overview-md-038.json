@@ -1,0 +1,27 @@
+{
+  "id": "knowledge-base/linux/overview",
+  "title": "Overview",
+  "description": "",
+  "source": "@site/docs/knowledge-base/linux/00-overview.md",
+  "sourceDirName": "knowledge-base/linux",
+  "slug": "/knowledge-base/linux/overview",
+  "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/linux/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/spmse/dev-blog-template/docs/knowledge-base/linux/00-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Knowledge Base",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/intro"
+  },
+  "next": {
+    "title": "The Linux Commandline",
+    "permalink": "/Docusaurus-Lern-Tagebuch/docs/knowledge-base/linux/the-linux-commandline"
+  }
+}
