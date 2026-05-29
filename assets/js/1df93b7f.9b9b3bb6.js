@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdso_dev_blog=self.webpackChunkdso_dev_blog||[]).push([[583],{4110:(e,s,o)=>{o.r(s),o.d(s,{default:()=>c});var d=o(5557),r=o(4811),t=o(6070);function c(){const e=(0,r.Ay)("/docs/projects/overview");return(0,t.jsx)(d.rd,{to:e})}}}]);
