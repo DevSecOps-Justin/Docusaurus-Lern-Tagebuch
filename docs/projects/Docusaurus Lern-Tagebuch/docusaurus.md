@@ -1,5 +1,7 @@
 # Project-Title
 
+Das ist ein *Titel*!
+
 <!--INSERT YOUR BRIEF DESCRIPTION HERE -->
 A simple and brief description and intro to the project.
 
@@ -10,7 +12,7 @@ A simple and brief description and intro to the project.
 import GithubLinkAdmonition from '@site/src/components/GithubLinkAdmonition';
 
 <GithubLinkAdmonition 
-    link="https://github.com/spmse/dev-blog-template"
+    link="https://github.com/DevSecOps-Justin/Docusaurus-Lern-Tagebuch"
     title="Github Tip" 
     type="tip"
 >
@@ -19,9 +21,14 @@ Checkout this repository to see the code/implementation
 
 ## Quickstart
 
-1. do X
-2. do Y
+1. Das ist ein Test!
+2. Das ist ein Test!
+3. Das ist ein Test!
+4. Das ist ein Test!
+5. Das ist ein Test!
 
 ## Description
+
+**Das** ist ein *Test*!
 
 ## Further References
