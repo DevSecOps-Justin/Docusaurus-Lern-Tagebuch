@@ -10,15 +10,19 @@ This page documents how I configured my very first cloud server instance in the 
 import GithubLinkAdmonition from '@site/src/components/GithubLinkAdmonition';
 
 <GithubLinkAdmonition 
-    link="https://github.com/spmse/dev-blog-template"
+    link="https://github.com/DevSecOps-Justin/dev-blog-template"
     title="Github Tip" 
     type="tip"
 />
 
 ## Quickstart
 
-1. do X
-2. do Y
+1. Das ist ein Test!
+2. Das ist ein Test!
+3. Das ist ein Test!
+4. Das ist ein Test!
+5. Das ist ein Test!
+6. Das ist ein Test!
 
 ## Description
 
